@@ -3,181 +3,159 @@
         "Name": "Bolt 1",
         "Location": "Rad Torque Systems",
         "Details": "Bolt is in good condition.",
-        "Image": "https://imgur.com/cOsD83u.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 49.0397465,
-        "Longitude": -122.3728235
+        "Longitude": -122.3728235,
+        "ServiceDate": "2023-05-10T09:30:00Z"
     },
     {
         "Name": "Bolt 2",
         "Location": "Nordic Windfarm",
         "Details": "Bolt is loose and requires tightening.",
-        "Image": "https://imgur.com/fO28GJn.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 52.6059121,
-        "Longitude": 4.4164923
+        "Longitude": 4.4164923,
+        "ServiceDate": "2023-07-15T14:45:00Z"
     },
     {
         "Name": "Bolt 3",
         "Location": "Fort MacMurray",
         "Details": "Bolt is corroded but functional.",
-        "Image": "https://imgur.com/fO28GJn.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 56.6971725,
-        "Longitude": -111.5125933
+        "Longitude": -111.5125933,
+        "ServiceDate": "2023-06-05T10:00:00Z"
     },
     {
         "Name": "Bolt 4",
         "Location": "Rad Torque Systems",
         "Details": "Bolt is in good condition.",
-        "Image": "https://imgur.com/fO28GJn.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 49.0397465,
-        "Longitude": -122.3728235
+        "Longitude": -122.3728235,
+        "ServiceDate": "2023-09-22T11:30:00Z"
     },
     {
         "Name": "Bolt 5",
         "Location": "Fort MacMurray",
         "Details": "Bolt is in good condition.",
-        "Image": "https://imgur.com/bYcBYWp.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 56.6971725,
-        "Longitude": -111.5125933
+        "Longitude": -111.5125933,
+        "ServiceDate": "2023-08-10T09:15:00Z"
     },
     {
         "Name": "Bolt 6",
         "Location": "Nordic Windfarm",
         "Details": "Bolt is loose and requires tightening.",
-        "Image": "https://imgur.com/bYcBYWp.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 52.6059121,
-        "Longitude": 4.4164923
+        "Longitude": 4.4164923,
+        "ServiceDate": "2023-06-30T15:30:00Z"
     },
     {
         "Name": "Bolt 7",
         "Location": "Rad Torque Systems",
         "Details": "Bolt needs maintenance soon.",
-        "Image": "https://imgur.com/bYcBYWp.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 49.0397465,
-        "Longitude": -122.3728235
+        "Longitude": -122.3728235,
+        "ServiceDate": "2023-10-02T14:00:00Z"
     },
     {
         "Name": "Bolt 8",
         "Location": "Nordic Windfarm",
         "Details": "Bolt is in good condition.",
-        "Image": "https://imgur.com/cOsD83u.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 52.6059121,
-        "Longitude": 4.4164923
+        "Longitude": 4.4164923,
+        "ServiceDate": "2023-05-30T10:45:00Z"
     },
     {
         "Name": "Bolt 9",
         "Location": "Fort MacMurray",
         "Details": "Bolt is corroded but functional.",
-        "Image": "https://imgur.com/cOsD83u.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 56.6971725,
-        "Longitude": -111.5125933
+        "Longitude": -111.5125933,
+        "ServiceDate": "2023-09-10T13:30:00Z"
     },
     {
         "Name": "Bolt 10",
         "Location": "Rad Torque Systems",
         "Details": "Bolt needs maintenance soon.",
-        "Image": "https://imgur.com/fO28GJn.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 49.0397465,
-        "Longitude": -122.3728235
+        "Longitude": -122.3728235,
+        "ServiceDate": "2023-05-25T16:15:00Z"
     },
     {
         "Name": "Bolt 11",
         "Location": "Nordic Windfarm",
         "Details": "Bolt is in good condition.",
-        "Image": "https://imgur.com/fO28GJn.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 52.6059121,
-        "Longitude": 4.4164923
+        "Longitude": 4.4164923,
+        "ServiceDate": "2023-08-15T11:00:00Z"
     },
     {
         "Name": "Bolt 12",
         "Location": "Fort MacMurray",
         "Details": "Bolt is loose and requires tightening.",
-        "Image": "https://imgur.com/fO28GJn.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 56.6971725,
-        "Longitude": -111.5125933
+        "Longitude": -111.5125933,
+        "ServiceDate": "2023-07-05T09:45:00Z"
     },
     {
         "Name": "Bolt 13",
         "Location": "Rad Torque Systems",
         "Details": "Bolt is in good condition.",
-        "Image": "https://imgur.com/fO28GJn.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 49.0397465,
-        "Longitude": -122.3728235
+        "Longitude": -122.3728235,
+        "ServiceDate": "2023-10-15T14:30:00Z"
     },
     {
         "Name": "Bolt 14",
         "Location": "Nordic Windfarm",
         "Details": "Bolt is in good condition.",
-        "Image": "https://imgur.com/fO28GJn.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 52.6059121,
-        "Longitude": 4.4164923
+        "Longitude": 4.4164923,
+        "ServiceDate": "2023-07-20T10:30:00Z"
     },
     {
         "Name": "Bolt 15",
         "Location": "Fort MacMurray",
         "Details": "Bolt is corroded but functional.",
-        "Image": "https://imgur.com/cOsD83u.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 56.6971725,
-        "Longitude": -111.5125933
+        "Longitude": -111.5125933,
+        "ServiceDate": "2023-06-20T16:00:00Z"
     },
     {
         "Name": "Bolt 16",
         "Location": "Rad Torque Systems",
         "Details": "Bolt is in good condition.",
-        "Image": "https://imgur.com/cOsD83u.png",
+        "Image": "image",
         "Population": 1,
         "Latitude": 49.0397465,
-        "Longitude": -122.3728235
-    },
-    {
-        "Name": "Bolt 17",
-        "Location": "Fort MacMurray",
-        "Details": "Bolt is in good condition.",
-        "Image": "https://imgur.com/cOsD83u.png",
-        "Population": 1,
-        "Latitude": 56.6971725,
-        "Longitude": -111.5125933
-    },
-    {
-        "Name": "Bolt 18",
-        "Location": "Nordic Windfarm",
-        "Details": "Bolt is loose and requires tightening.",
-        "Image": "https://imgur.com/1aJjhyo.png",
-        "Population": 1,
-        "Latitude": 52.6059121,
-        "Longitude": 4.4164923
-    },
-    {
-        "Name": "Bolt 19",
-        "Location": "Rad Torque Systems",
-        "Details": "Bolt needs maintenance soon.",
-        "Image": "https://imgur.com/1aJjhyo.png",
-        "Population": 1,
-        "Latitude": 49.0397465,
-        "Longitude": -122.3728235
-    },
-    {
-        "Name": "Bolt 20",
-        "Location": "Nordic Windfarm",
-        "Details": "Bolt is in good condition.",
-        "Image": "https://imgur.com/1aJjhyo.png",
-        "Population": 1,
-        "Latitude": 52.6059121,
-        "Longitude": 4.4164923
-    }
-]
+        "Longitude": -122.3728235,
+        "ServiceDate": "2023-05-05T
 
