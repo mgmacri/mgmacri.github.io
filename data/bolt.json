@@ -3,7 +3,7 @@
         "Name": "Bolt 1",
         "Location": "Rad Torque Systems",
         "Details": "Bolt is in good condition.",
-        "Image": "image",
+        "Image": "https://imgur.com/cOsD83u.png",
         "Population": 1,
         "Latitude": 49.0397465,
         "Longitude": -122.3728235
@@ -12,7 +12,7 @@
         "Name": "Bolt 2",
         "Location": "Nordic Windfarm",
         "Details": "Bolt is loose and requires tightening.",
-        "Image": "image",
+        "Image": "https://imgur.com/fO28GJn.png",
         "Population": 1,
         "Latitude": 52.6059121,
         "Longitude": 4.4164923
@@ -21,7 +21,7 @@
         "Name": "Bolt 3",
         "Location": "Fort MacMurray",
         "Details": "Bolt is corroded but functional.",
-        "Image": "image",
+        "Image": "https://imgur.com/fO28GJn.png",
         "Population": 1,
         "Latitude": 56.6971725,
         "Longitude": -111.5125933
@@ -30,7 +30,7 @@
         "Name": "Bolt 4",
         "Location": "Rad Torque Systems",
         "Details": "Bolt is in good condition.",
-        "Image": "image",
+        "Image": "https://imgur.com/fO28GJn.png",
         "Population": 1,
         "Latitude": 49.0397465,
         "Longitude": -122.3728235
@@ -39,7 +39,7 @@
         "Name": "Bolt 5",
         "Location": "Fort MacMurray",
         "Details": "Bolt is in good condition.",
-        "Image": "image",
+        "Image": "https://imgur.com/bYcBYWp.png",
         "Population": 1,
         "Latitude": 56.6971725,
         "Longitude": -111.5125933
@@ -48,7 +48,7 @@
         "Name": "Bolt 6",
         "Location": "Nordic Windfarm",
         "Details": "Bolt is loose and requires tightening.",
-        "Image": "image",
+        "Image": "https://imgur.com/bYcBYWp.png",
         "Population": 1,
         "Latitude": 52.6059121,
         "Longitude": 4.4164923
@@ -57,7 +57,7 @@
         "Name": "Bolt 7",
         "Location": "Rad Torque Systems",
         "Details": "Bolt needs maintenance soon.",
-        "Image": "image",
+        "Image": "https://imgur.com/bYcBYWp.png",
         "Population": 1,
         "Latitude": 49.0397465,
         "Longitude": -122.3728235
@@ -66,7 +66,7 @@
         "Name": "Bolt 8",
         "Location": "Nordic Windfarm",
         "Details": "Bolt is in good condition.",
-        "Image": "image",
+        "Image": "https://imgur.com/cOsD83u.png",
         "Population": 1,
         "Latitude": 52.6059121,
         "Longitude": 4.4164923
@@ -75,7 +75,7 @@
         "Name": "Bolt 9",
         "Location": "Fort MacMurray",
         "Details": "Bolt is corroded but functional.",
-        "Image": "image",
+        "Image": "https://imgur.com/cOsD83u.png",
         "Population": 1,
         "Latitude": 56.6971725,
         "Longitude": -111.5125933
@@ -84,7 +84,7 @@
         "Name": "Bolt 10",
         "Location": "Rad Torque Systems",
         "Details": "Bolt needs maintenance soon.",
-        "Image": "image",
+        "Image": "https://imgur.com/fO28GJn.png",
         "Population": 1,
         "Latitude": 49.0397465,
         "Longitude": -122.3728235
@@ -93,7 +93,7 @@
         "Name": "Bolt 11",
         "Location": "Nordic Windfarm",
         "Details": "Bolt is in good condition.",
-        "Image": "image",
+        "Image": "https://imgur.com/fO28GJn.png",
         "Population": 1,
         "Latitude": 52.6059121,
         "Longitude": 4.4164923
@@ -102,7 +102,7 @@
         "Name": "Bolt 12",
         "Location": "Fort MacMurray",
         "Details": "Bolt is loose and requires tightening.",
-        "Image": "image",
+        "Image": "https://imgur.com/fO28GJn.png",
         "Population": 1,
         "Latitude": 56.6971725,
         "Longitude": -111.5125933
@@ -111,7 +111,7 @@
         "Name": "Bolt 13",
         "Location": "Rad Torque Systems",
         "Details": "Bolt is in good condition.",
-        "Image": "image",
+        "Image": "https://imgur.com/fO28GJn.png",
         "Population": 1,
         "Latitude": 49.0397465,
         "Longitude": -122.3728235
@@ -120,7 +120,7 @@
         "Name": "Bolt 14",
         "Location": "Nordic Windfarm",
         "Details": "Bolt is in good condition.",
-        "Image": "image",
+        "Image": "https://imgur.com/fO28GJn.png",
         "Population": 1,
         "Latitude": 52.6059121,
         "Longitude": 4.4164923
@@ -129,7 +129,7 @@
         "Name": "Bolt 15",
         "Location": "Fort MacMurray",
         "Details": "Bolt is corroded but functional.",
-        "Image": "image",
+        "Image": "https://imgur.com/cOsD83u.png",
         "Population": 1,
         "Latitude": 56.6971725,
         "Longitude": -111.5125933
@@ -138,7 +138,7 @@
         "Name": "Bolt 16",
         "Location": "Rad Torque Systems",
         "Details": "Bolt is in good condition.",
-        "Image": "image",
+        "Image": "https://imgur.com/cOsD83u.png",
         "Population": 1,
         "Latitude": 49.0397465,
         "Longitude": -122.3728235
@@ -147,7 +147,7 @@
         "Name": "Bolt 17",
         "Location": "Fort MacMurray",
         "Details": "Bolt is in good condition.",
-        "Image": "image",
+        "Image": "https://imgur.com/cOsD83u.png",
         "Population": 1,
         "Latitude": 56.6971725,
         "Longitude": -111.5125933
@@ -156,7 +156,7 @@
         "Name": "Bolt 18",
         "Location": "Nordic Windfarm",
         "Details": "Bolt is loose and requires tightening.",
-        "Image": "image",
+        "Image": "https://imgur.com/1aJjhyo.png",
         "Population": 1,
         "Latitude": 52.6059121,
         "Longitude": 4.4164923
@@ -165,7 +165,7 @@
         "Name": "Bolt 19",
         "Location": "Rad Torque Systems",
         "Details": "Bolt needs maintenance soon.",
-        "Image": "image",
+        "Image": "https://imgur.com/1aJjhyo.png",
         "Population": 1,
         "Latitude": 49.0397465,
         "Longitude": -122.3728235
@@ -174,7 +174,7 @@
         "Name": "Bolt 20",
         "Location": "Nordic Windfarm",
         "Details": "Bolt is in good condition.",
-        "Image": "image",
+        "Image": "https://imgur.com/1aJjhyo.png",
         "Population": 1,
         "Latitude": 52.6059121,
         "Longitude": 4.4164923
